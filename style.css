@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-color: #E7473C;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    font-size: 35px;
+
+}
+h1 {
+    font-size: 80px;
+    color: #F0F0F0;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-shadow: 3px 0 #000000;
+}
+
+.hear {font-size: 35px;}
+
+.viewed {font-size: 20px;}
+  
+.animation {
+    box-shadow: 0 3px 4px 0 black;
+    opacity: 0.5;
+}
+  
+.button {
+    outline: none;
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    line-height: 2;
+    font-weight: 900;
+    color: white;
+    text-shadow: 3px 0 #000000;
+    display: block;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+}
+
+.here {
+    text-decoration: none;
+    color: white;}
